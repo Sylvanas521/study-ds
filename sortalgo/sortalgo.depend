@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519566331 source:e:\workspace\sortalgo\main.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+
